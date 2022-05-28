@@ -42,3 +42,15 @@ I would still recommend to build the platform more resilient to cyber threats. D
 -Verify & test
 -Develop security culture.
 
+Sources:
+https://www.moj.io/resources/cars-code-connectivity/
+https://www.comparably.com/companies/mojio/competitors
+Geotab.com/blog/telematics-cybersecurity
+pitchbook.com/profiles/company/59996-35#overview
+99images.com/apps/auto-vehicles/io.moj.mobile.android.motion.generic/problems
+stackshare.io.mojio/mojio
+bcbusiness.ca/app-store-for-cars-raises-23-million
+glassdoor.ca/Overview/Working-at-Mojio
+
+
+
