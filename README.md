@@ -1,6 +1,8 @@
 # Module-1-Challenge
 Assignment 1: Saiful Ahmed
+
 ![image](https://user-images.githubusercontent.com/105663954/198862231-f7f0c7fc-9c7a-4ab9-8cab-c017dd4c61a0.png)
+
 Case on one of the Top Insuretech company in Canada as my Fintech Domain.
 # Overview and Origin:
 Insuretech Company: Mojio that was incorporated in 2012 in Vancouver,BC in the Enterprise software and network solution industry with 73 employees as private.Mojio is a connected Car Cloud Platform Company in the analytics sector.
